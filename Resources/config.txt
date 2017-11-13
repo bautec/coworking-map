@@ -1,0 +1,3 @@
+API_KEY="AIzaSyA5qzALLqAUzhUkST5FtN38jU7szg3Ehbc"
+CHECKED="1,4,6,8,10"
+LAST_DIR="C:/Users/Craig's Yoga/Desktop"
